@@ -1,0 +1,10 @@
+{
+    "name": "resume",
+    "description": "description",
+    "authors": "wc",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": "latest"
+    },
+    "devDependcies": {}
+}
