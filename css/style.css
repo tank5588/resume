@@ -1,14 +1,8 @@
-html {
+* {
     /* height: 1024px;
     width: 1440px;
     left: -720px;
     top: -512px;
     border-radius: 0px; */
 
-}
-
-.h1_user {
-    color: rgba(99, 99, 184, 0.925);
-    text-align: center;
-    font-size: 80px;
 }
