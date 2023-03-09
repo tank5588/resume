@@ -49,3 +49,28 @@
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
 }
+
+.nav-masthead, .nav-link {
+    color: rgba(255, 255, 255, .5);
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: #57d490 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
