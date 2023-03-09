@@ -1,4 +1,3 @@
-
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -63,12 +62,34 @@
     color: #57d490 !important;
 }
 
+.bg-white {
+    background-color: #141414 !important;
+    --bs-bg-opacity: 0 !important;
+    color: white !important;
+}
 
+.bg-white:hover {
+    color: #57d490 !important;
+}
 
+.bg-white:active {
+    border-color: #57d490 !important;
+    color: #57d490 !important;
+}
 
+.user__color {
+    text-decoration: none !important;
+    color: #6c757d !important;
+}
 
+.user__color:hover {
+    text-decoration: none !important;
+    color: #57d490 !important;
+}
 
-
+.user__color-synopsis:hover {
+    color: #57d490 !important;
+}
 
 
 
